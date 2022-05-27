@@ -1,3 +1,5 @@
 function [z] = MyMultiplicationFunction(x,y)
-  % this funtion multiplies two numbers
+  % This is simple funtion that multiplies two numbers
+  % z = x * Y where x and y are provided by the user
+  
   z = x * y;
